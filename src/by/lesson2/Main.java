@@ -51,9 +51,3 @@ private static int stringToInt(String s){
         return b;
 
 }
-    public static void Map(String[] args) {}
-
-
-}
-
-    public static void Map(String[] args) {
